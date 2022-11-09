@@ -1,1 +1,2 @@
-# Recipe website made with html 
+# recipes
+Small website for recipes made with html
